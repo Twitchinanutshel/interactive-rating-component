@@ -1,5 +1,8 @@
 # Frontend Mentor - Interactive rating component
 
+HERE IS MY COMPLETED CHALLENGE https://twitchinanutshel.github.io/interactive-rating-component/
+ON PAGES
+
 ![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
